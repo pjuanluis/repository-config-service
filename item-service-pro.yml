@@ -1,0 +1,9 @@
+server:
+  port: 8007
+
+configuracion:
+  texto: Ambiente producción
+  autor: Juan Luis Pérez
+  email: pjuanluis@outlook.es
+
+#spring.config.import=optional:configserver:

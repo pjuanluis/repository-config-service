@@ -1,0 +1,9 @@
+server:
+  port: 8005
+
+configuracion:
+  texto: Ambiente desarrollo
+  autor: Juan Luis Pérez
+  email: pjuanluis@outlook.es
+
+#spring.config.import=optional:configserver:
