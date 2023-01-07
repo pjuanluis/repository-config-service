@@ -3,7 +3,7 @@ server:
 
 configuracion:
   texto: Ambiente desarrollo
-  autor: Juan Luis Pérez
+  autor: Juan Luis Pérez R.
   email: pjuanluis@outlook.es
 
 #spring.config.import=optional:configserver:
